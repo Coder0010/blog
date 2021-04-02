@@ -1,0 +1,52 @@
+Starter Project Adminpanel With Design [ Metronic v7 ] V1.7.0
+    - enable soft delete.
+    - restore deleted data for [ single & multi ] row.
+    - add search scope.
+
+Starter Project Adminpanel With Design [ Metronic v7 ] V1.6.0
+    - Move uploading images to EloquentRepository.
+    - add slider background to under_construction page.
+    - upgrade setting [ services, branches ] to accept image by repeater.
+    - add ui loader [ html. css ].
+    - replace setTimeout to window loaded.
+
+Starter Project Adminpanel With Design [ Metronic v7 ] V1.5.0
+    - mult images reordering.
+    - upgrade leads.
+    - fix under_construction layout for cpanel.
+    - add coping data from old database.
+    - updates adminpanel components.
+    - add translations
+
+Starter Project Adminpanel With Design [ Metronic v7 ] V1.4.0
+    - fix stubs
+    - upgrade datatable for search.
+    - add init editor at blade.
+    - append new connection of database.
+
+Starter Project Adminpanel With Design [ Metronic v7 ] V1.3.0
+    - push form scripts to end of main layout.
+    - add pages crud to setting domain.
+    - fix reset search form for all inputs.
+    - fix stubs.
+
+Starter Project Adminpanel With Design [ Metronic v7 ] V1.2.0
+    - fix main erd.
+    - rename dir of adminpanel at themes to Metronic.
+
+Starter Project Adminpanel With Design [ Metronic v7 ] V1.1.0
+    - add under_construction layout page.
+    - add clear form input for search.
+    - finish editing on under_construction layout.
+
+Starter Project Adminpanel With Design [ Metronic v7 ] V1.0.0
+    - copy project from old repo ddd.
+    - add gulp of Metronic theme and linked it to public.
+    - upgrade project to laravel 8
+    - upgrade main layout.
+    - upgrade ( left menu, upper-navbar, content-navbar, ) to x-component of laravel 8
+    - upgrade multi language inputs to nav pills.
+    - remove slug column.
+    - remove unused composer packages.
+    - add Advanced Search for all cruds.
+    - upgrade setting.
